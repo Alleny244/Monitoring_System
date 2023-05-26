@@ -1,7 +1,6 @@
 # Proctoring-AI
 
-Project to create an automated proctoring system where the user can be monitored automatically through the webcam and microphone. The project is divided into two parts: vision and audio based functionalities. An explanation of some functionalities of the project can be found on my [medium article](https://towardsdatascience.com/automating-online-proctoring-using-ai-e429086743c8?source=friends_link&sk=fbc385d1a8c55628a916dc714747f276).
-
+Project to create an automated proctoring system where the user can be monitored automatically through the webcam and microphone. The project is divided into two parts: vision and audio based functionalities. 
 ### Prerequisites
 To run the programs in this repo, do the following:
 - create a virtual environment using the command:

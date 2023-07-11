@@ -1,4 +1,4 @@
-# Proctoring-AI
+# i C u - Automated Proctoring System
 
 Project to create an automated proctoring system where the user can be monitored automatically through the webcam and microphone. The project is divided into two parts: vision and audio based functionalities. 
 ### Prerequisites
